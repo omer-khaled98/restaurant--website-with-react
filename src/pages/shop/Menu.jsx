@@ -225,7 +225,7 @@ const Menu = () => {
       }
 
       const response = await fetch(
-        `https://restaurant-api-with-node-js.vercel.app/api/meals${query}`
+        `https://restaurant-api-with-node-izxfgqvdg-omer-khaled98s-projects.vercel.app/api/meals${query}`
       );
       const data = await response.json();
 
